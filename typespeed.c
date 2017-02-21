@@ -274,8 +274,7 @@ int game(int level) {
          display_ascii(fptr);
          fclose(fptr);
         printf("\n\n%*s %d", 56, " Y   O   U      S   C   O   R   E   D : ", total_score);
-    }
-    else {
+    } else {
         advance_level(level);
         getch();
     }
