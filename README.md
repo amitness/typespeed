@@ -23,7 +23,7 @@ The challenge was to use basic features of C and only standard library. We made 
 To install it on your local machine,
 * Clone this repository to your local machine.
 ```shell
-git clone https://github.com/studenton/typespeed
+git clone https://github.com/amitness/typespeed
 ```
 
 * In the directory where you placed the cloned repo, compile `typespeed.c` and execute.
@@ -41,7 +41,4 @@ If you're interested, feel free to fork and submit PR.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ### Authors
-- [Amit Chaudhary](https://github.com/studenton)
-- [Ashish Ghimire](https://github.com/deashish)
-- [Ashwin Neupane](https://github.com/ashwin101)
-- [Kiran Koirala](https://github.com/koiralakiran1)
+- [Amit Chaudhary](https://github.com/amitness) | [Ashish Ghimire](https://github.com/deashish) | [Ashwin Neupane](https://github.com/ashwin101) | [Kiran Koirala](https://github.com/koiralakiran1)
