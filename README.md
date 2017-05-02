@@ -7,7 +7,7 @@ A typing game where displayed words should be typed as fast as possible. You los
 The words gets tougher each time as the level upgrades. The main objective is to get as much score as you can.
 
 ### Backstory
-Mini project developed for the *Intro to Programming in C* course during 1st semester, 2014. 
+Mini project developed for the *Intro to Programming in C* course during 1<sup>st</sup> semester, 2014. 
 
 The challenge was to use basic features of C and only standard library. We made use of ASCII art for graphical effect.
 
